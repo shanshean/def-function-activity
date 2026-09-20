@@ -12,7 +12,7 @@ An interactive python program that calculates a tenant's total rent, payments, a
 	>August, September, October, November, December
 	>
 3. Calcution - The function computes:
->
+	>
 	>Total rent owed = monthly_rent*number of months
 	>
 	>Total paid = sum of all monthly payments
