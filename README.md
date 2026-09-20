@@ -1,10 +1,10 @@
 # Rent Calculator (def Function)
 
-#Description
+## Description
 
 An interactive python program that calculates a tenant's total rent, payments, and remaining balance from August to December. It uses a custom function (def) to organize calculations, making the code reusable and easy to maintain.
 
-#Features
+## Features
 
 1. Input Monthly Rent - Enter the fixed monthly rent amount.
 2. Monthly Payments - Input payments for each month:
@@ -21,7 +21,7 @@ An interactive python program that calculates a tenant's total rent, payments, a
 	>
 4. Output - Displays a formatted rent record with all totals.
 
-#How to Run
+## How to Run
 
 [View python script](def_function.py)
 
@@ -36,7 +36,7 @@ An interactive python program that calculates a tenant's total rent, payments, a
 	>
 5. View the final rent record & balance
 
-Example Output:
+## Example Output:
 
 >
 >Enter monthly rent amount: 5000
