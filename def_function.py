@@ -25,8 +25,8 @@ return balance
 #It is to calculate each payment and summing up the total rent.
 payment = []
 for month in ["August", "September", "October", "November", "December"]:
-  payment = float(input(f"Enter payment for {month}: ))
-  payments.append(payment)
+	payment = float(input(f"Enter payment for {month}: ))
+	payments.append(payment)
 
 #Calling/invoking the def function with the collected rent balance
 	calculate_rent_balance(monthly_rent, payments)
