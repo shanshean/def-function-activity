@@ -11,7 +11,9 @@ def calculate_rent_balance(monthly_rent, payments):
 	balance = total_rent - total_paid
 
 #Output format
+print("\n")
 print("⋆˚꩜｡RENT RECORD - August to December⋆‧°𓏲ּ𝄢")
+print("\n")
 print(f"Total Rent Owed: {total_rent:.2f}")
 print(f"Total Rent Paid: {total_paid:.2f}")
 print(f"Balance: {balance:.2f}")
