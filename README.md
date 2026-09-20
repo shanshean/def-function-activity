@@ -36,13 +36,23 @@ An interactive python program that calculates a tenant's total rent, payments, a
 
 Example Output:
 
-Enter monthly rent amount: 5000
-Enter payment for August: 5000
-Enter payment for September: 4500
-Enter payment for October: 5000
-Enter payment for November: 5000
-Enter payment for December: 4700
-⋆˚꩜｡RENT RECORD - August to December⋆‧°𓏲ּ𝄢
-Total Rent Owed: 25000.00
-Total Rent Paid: 24200.00
-Balance: 800.00
+>
+>Enter monthly rent amount: 5000
+>
+>Enter payment for August: 5000
+>
+>Enter payment for September: 4500
+>
+>Enter payment for October: 5000
+>
+>Enter payment for November: 5000
+>
+>Enter payment for December: 4700
+>
+>⋆˚꩜｡RENT RECORD - August to December⋆‧°𓏲ּ𝄢
+>
+>Total Rent Owed: 25000.00
+>
+>Total Rent Paid: 24200.00
+>
+>Balance: 800.00
