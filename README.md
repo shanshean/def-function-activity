@@ -23,6 +23,8 @@ An interactive python program that calculates a tenant's total rent, payments, a
 
 #How to Run
 
+[Click here to view to python script](def_function.py)
+
 1. Save the code as rent_calculator.py
 2. Open terminal/command prompt
 3. Run: python rent_calculator.py
